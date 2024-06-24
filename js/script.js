@@ -5,4 +5,4 @@ let colore_preferito = prompt("Inserisci il tuo colore preferito");
 console.log(nome, cognome, colore_preferito);
 
 let passgn = `${nome}${cognome}${colore_preferito}`;
-document.getElementById("mypw").innerText = passgn + 23;
+document.getElementById("mypw").innerText = passgn + "23";
